@@ -1,9 +1,14 @@
-## Echo of C++
+# Echo of C++
 
-_Coding in C++ to read from line, read from a file while using HPP and CPP, and perfrom Unit Testing_
+_Coding in C++ to read lines, parse from files using `.hpp` and `.cpp`, and perform unit testing._
 
-## Description 
-This porject aims to read from a file and display the content of the file in a variety of ways.
+---
+
+## 📜 Description
+
+This project aims to read content from a file and display it in a variety of ways using C++. It focuses on string parsing (especially structured logs) and demonstrates key principles of object-oriented programming, file handling, and automated testing in C++.
+
+---
 
 
 ## Production - Task 1 
