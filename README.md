@@ -4,8 +4,6 @@ _Coding in C++ to read lines, parse from files using `.hpp` and `.cpp`, and perf
 
 ---
 
-## 📜 Description
-
 This project aims to read content from a file and display it in a variety of ways using C++. It focuses on string parsing (especially structured logs) and demonstrates key principles of object-oriented programming, file handling, and automated testing in C++.
 
 ---
